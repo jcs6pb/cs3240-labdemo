@@ -1,2 +1,5 @@
 #! /usr/local/bin/python3
-print("hello")
+
+
+def greeting(msg):
+    print(msg)
